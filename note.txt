@@ -1,3 +1,5 @@
 npm install -g nodemon
-
+npm install chalk for color
 npm init for start the project
+
+add "type": "module", for ES6 import issue
