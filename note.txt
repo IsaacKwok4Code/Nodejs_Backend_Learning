@@ -1,1 +1,3 @@
 npm install -g nodemon
+
+npm init for start the project
